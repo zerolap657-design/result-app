@@ -1,0 +1,8 @@
+{
+  "latestVersion": "1.1.0",
+  "versionCode": 2,
+  "title": "New Update Available",
+  "message": "Bug fixes, performance improvements and latest SSC updates.",
+  "forceUpdate": false,
+  "downloadUrl": "https://apkpure.com/your-package-name"
+}
