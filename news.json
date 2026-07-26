@@ -2,11 +2,12 @@
   "news": [
     {
       "id": 1,
-      "title": "SSC Result 2026 প্রকাশের সম্ভাব্য তারিখ",
-      "description": "শিক্ষা মন্ত্রণালয়ের সর্বশেষ তথ্য।",
-      "date": "2026-07-22",
+      "title": "📢 রেজাল্ট আপডেট",
+      "description": "এসএসসি ও সমমান পরীক্ষার ফল প্রকাশের প্রস্তুতি চূড়ান্ত। বিস্তারিত জানতে এখানে ক্লিক করুন।",
+      "date": "2026-07-26",
       "image": "",
-      "important": true
+      "important": true,
+      "url": "https://thedailycampus.com/education-board/265886?fbclid=IwY2xjawTSnbpleHRuA2FlbQIxMABicmlkETEyYUVLTGR1YkZESnhuTXN6c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHilDWt3orTmvIwtcPsqo2FVR4iQ2tuuPkJYfkoPBv7uPiqpEBJUOCJaUzDdJ_aem_2IehZjE9LTjVMbvdkuWjcg"
     }
   ]
 }
